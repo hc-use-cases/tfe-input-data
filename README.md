@@ -2,9 +2,7 @@
 TFE workspace with inputs which needs to be consumed elsewhere
 
 
-This code will consume the output from different repository / TFE workspace code
-
-https://github.com/hc-use-cases/tfe-output-data
+This code will consume the output from different repository / TFE workspace code - https://github.com/hc-use-cases/tfe-output-data
 
 
 
